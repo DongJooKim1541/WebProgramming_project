@@ -1,0 +1,11 @@
+127.0.0.1 - - [04/Feb/2018:09:43:17 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [04/Feb/2018:09:43:19 +0900] "GET /WebPageProject/index.jsp HTTP/1.1" 200 1921
+0:0:0:0:0:0:0:1 - - [04/Feb/2018:09:43:19 +0900] "GET /WebPageProject/media/images,shop.png HTTP/1.1" 200 20289
+0:0:0:0:0:0:0:1 - - [04/Feb/2018:09:43:19 +0900] "GET /WebPageProject/css/mystyle.css HTTP/1.1" 200 1549
+0:0:0:0:0:0:0:1 - - [04/Feb/2018:09:43:19 +0900] "GET /WebPageProject/computer.jsp HTTP/1.1" 200 2851
+0:0:0:0:0:0:0:1 - - [04/Feb/2018:09:43:19 +0900] "GET /WebPageProject/css/images/footer_bg.gif HTTP/1.1" 404 1125
+0:0:0:0:0:0:0:1 - - [04/Feb/2018:09:43:19 +0900] "GET /WebPageProject/media/notebook.png HTTP/1.1" 200 139481
+0:0:0:0:0:0:0:1 - - [04/Feb/2018:09:43:19 +0900] "GET /WebPageProject/media/computer.jpg HTTP/1.1" 200 32696
+0:0:0:0:0:0:0:1 - - [04/Feb/2018:09:43:26 +0900] "GET /WebPageProject/clothings.jsp HTTP/1.1" 200 955
+0:0:0:0:0:0:0:1 - - [04/Feb/2018:09:43:26 +0900] "GET /WebPageProject/media/clothes1.jpg HTTP/1.1" 200 58559
+0:0:0:0:0:0:0:1 - - [04/Feb/2018:09:43:26 +0900] "GET /WebPageProject/media/clothes2.jpg HTTP/1.1" 200 73954

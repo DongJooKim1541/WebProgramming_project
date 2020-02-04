@@ -1,0 +1,11 @@
+127.0.0.1 - - [19/Feb/2018:07:57:34 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:07:57:36 +0900] "GET /WebPageProject/admin.jsp HTTP/1.1" 200 1136
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:07:57:36 +0900] "GET /WebPageProject/css/mystyle.css HTTP/1.1" 200 1549
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:07:58:09 +0900] "POST /WebPageProject/itemhandling.jsp HTTP/1.1" 200 376
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:07:58:09 +0900] "GET /WebPageProject/admin.jsp HTTP/1.1" 200 1136
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:08:04:40 +0900] "GET /WebPageProject/index.jsp HTTP/1.1" 200 2642
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:08:05:46 +0900] "GET /WebPageProject/computer.jsp HTTP/1.1" 200 2851
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:08:05:46 +0900] "GET /WebPageProject/css/images/footer_bg.gif HTTP/1.1" 404 1125
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:08:05:46 +0900] "GET /WebPageProject/media/notebook.png HTTP/1.1" 200 139481
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:08:05:46 +0900] "GET /WebPageProject/media/computer.jpg HTTP/1.1" 200 32696
+0:0:0:0:0:0:0:1 - - [19/Feb/2018:08:05:46 +0900] "GET /favicon.ico HTTP/1.1" 404 1085
